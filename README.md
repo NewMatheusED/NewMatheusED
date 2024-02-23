@@ -1,7 +1,7 @@
 # 👋 Hello everyone! Welcome to my world!
 ## My name is *Matheus Eduardo*, but my nick into the web is *NewMatheusED*!
 
-Im a university student of Computer Science and doing SAP Fiori course at the momento.
+Im a university student of Computer Science and doing SAP Fiori course at the moment.
 
 Here is my LinkedIn for a job contact! </br>
 <a href="https://www.linkedin.com/in/matheus-eduardo-mendonça-gomes-4aaa57270" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="30" width="30" /></a>
