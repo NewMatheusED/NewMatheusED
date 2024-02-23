@@ -1,6 +1,12 @@
 # 👋 Hello everyone! Welcome to my world!
 ## My name is *Matheus Eduardo*, but my nick into the web is *NewMatheusED*!
 
+Im a university student of Computer Science and doing SAP Fiori course at the momento.
+
+Here is my LinkedIn for a job contact!
+<a target="_blank" href="www.linkedin.com/in/matheus-eduardo-mendonça-gomes-4aaa57270"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
+          
+
 <!--
 **NewMatheusED/NewMatheusED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
