@@ -2,7 +2,7 @@
 ## My name is *Matheus Eduardo*, but my nick into the web is *NewMatheusED*!
 
 Im a university student of Computer Science and doing SAP Fiori course at the moment.
-<br><br>
+<br>
 ## Technologies that I use
 <div>
           <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" height="30" width="30" />
@@ -16,7 +16,7 @@ Im a university student of Computer Science and doing SAP Fiori course at the mo
           <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" height="30" width="30" />
           <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" width="30" />
 </div>
-<br><br>
+<br>
 
 ## Contacts
 <div style="display=flex; flex-direction=column;">
