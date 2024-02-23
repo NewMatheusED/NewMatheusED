@@ -4,11 +4,18 @@
 Im a university student of Computer Science and doing SAP Fiori course at the momento.
 
 Here is my LinkedIn for a job contact! </br>
-<a href="https://www.linkedin.com/in/matheus-eduardo-mendonça-gomes-4aaa57270" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" width="40" /></a>
-
-##Technologies that I use
+<a href="https://www.linkedin.com/in/matheus-eduardo-mendonça-gomes-4aaa57270" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="30" width="30" /></a>
+<br><br>
+## Technologies that I use
 <div>
-          <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" height="20" width="20" />
+          <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" height="30" width="30" />
+          <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" height="30" width="30" />
+          <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="30" width="30" />
+          <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="30" width="30" />
+          <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="30" width="30" />
+          
+
+          
           
 </div>
           
