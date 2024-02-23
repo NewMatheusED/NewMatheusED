@@ -17,6 +17,7 @@ Im a university student of Computer Science and doing SAP Fiori course at the mo
           <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" width="30" />
 </div>
 <br><br>
+
 ## Contacts
 <div style="display=flex; flex-direction=column;">
 <a href="https://instagram.com/math_edu_gomes" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
