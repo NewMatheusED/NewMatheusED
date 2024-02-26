@@ -28,17 +28,10 @@ Im a university student of Computer Science and doing SAP Fiori course at the mo
 <br>
 
 ## Github Stats
-<div>
-<a href="https://github.com/NewMatheusED">
-<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewMatheusED&layout=compact&langs_count=7&theme=dracula"/>       
-<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=NewMatheusED&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-          
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaCassari&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaCassari&show_icons=true&theme=tokyonight)
+
+![Snake animation](https://github.com/RaphaCassari/RaphaCassari/blob/output/github-contribution-grid-snake.svg)
           
 
 <!--
