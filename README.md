@@ -28,10 +28,10 @@ Im a university student of Computer Science and doing SAP Fiori course at the mo
 <br>
 
 ## Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaCassari&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaCassari&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewMatheusED&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NewMatheusED&show_icons=true&theme=tokyonight)
 
-![Snake animation](https://github.com/RaphaCassari/RaphaCassari/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/NewMatheusED/NewMatheusED/blob/output/github-contribution-grid-snake.svg)
           
 
 <!--
