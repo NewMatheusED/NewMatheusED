@@ -12,7 +12,7 @@ Im a university student of Computer Science and doing SAP Fiori course at the mo
           
 <br>
 <h1 align="center">         
-Technologies that I use
+👨‍💻Technologies that I use
 </h1>
 <div align="center">
           <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" height="40" width="40" />
@@ -29,7 +29,21 @@ Technologies that I use
 <br>
 
 <h1 align="center">         
-Contacts
+⚙️Skills
+</h1>
+
+<div align="center">
+    <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="microsoft azure" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="sap" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</div>
+
+
+<br>
+
+<h1 align="center">         
+📞Contacts
 </h1>
 
 <div align="center">
@@ -40,11 +54,13 @@ Contacts
 
 <br>
 
-## Github Stats
+<h1 align="center">         
+📊Github Stats
+</h1>
 <a href="https://github.com/NewMatheusED">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NewMatheusED&theme=github_dark" width="32.5%">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NewMatheusED&theme=github_dark" width="32.5%">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NewMatheusED&theme=github_dark&utcOffset=8" width="32.5%">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NewMatheusED&theme=github_dark&utcOffset=-3" width="32.5%">
 </a>
 
 <a href="https://github.com/CodeKaito">
