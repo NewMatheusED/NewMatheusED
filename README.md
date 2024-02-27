@@ -31,7 +31,7 @@ Im a university student of Computer Science and doing SAP Fiori course at the mo
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewMatheusED&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NewMatheusED&show_icons=true&theme=tokyonight)
 
-![Snake animation](https://github.com/NewMatheusED/NewMatheusED/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/NewMatheusED/NewMatheusED/blob/output/github-contribution-grid-snake.svg)
           
 
 <!--
