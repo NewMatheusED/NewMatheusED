@@ -60,9 +60,12 @@ Im a university student of Computer Science and doing SAP ABAP Academy
 <a href="https://github.com/NewMatheusED">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NewMatheusED&theme=github_dark" width="32.5%">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NewMatheusED&theme=github_dark" width="32.5%">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NewMatheusED&theme=github_dark&utcOffset=-3" width="32.5%">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NewMatheusED&theme=github_dark&utcOffset=-3" width="32.5%"> 
 </a>
 
-<a href="https://github.com/CodeKaito">
+<a href="https://github.com/NewMatheusED">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NewMatheusED&theme=github_dark" width="98.5%">
 </a>
+<div align="center">
+    <img align="center" loading ="lazy" src="https://leetcard.jacoblin.cool/NewMatheusED?theme=dark&font=Fira%20Code&ext=heatmap" width="60%">
+</div>
