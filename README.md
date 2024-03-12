@@ -55,7 +55,7 @@ Im a university student of Computer Science and doing SAP ABAP Academy
 <br>
 
 <h1 align="center">         
-📊Github Stats
+📊Stats
 </h1>
 <a href="https://github.com/NewMatheusED">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NewMatheusED&theme=github_dark" width="32.5%">
