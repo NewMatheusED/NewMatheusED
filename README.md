@@ -12,7 +12,7 @@ Im a university student of Computer Science and doing SAP ABAP Academy
           
 <br>
 <h1 align="center">         
-👨‍💻Technologies that I use
+👨‍💻Technologies
 </h1>
 <div align="center">
           <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" height="40" width="40" />
