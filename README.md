@@ -7,7 +7,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Eat;Code;Sleep;Repeat!&font=Verdana&duration=2000&pause=100&color=11B4F7&center=true&width=280&height=40" alt="Typing SVG" />
 </p>
 <h3 align="center">
-Im a university student of Computer Science and doing SAP ABAP Academy
+Im a university student of Computer Science and SAP ABAP | Fiori consultant
 </h3>
           
 <br>
