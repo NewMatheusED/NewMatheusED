@@ -73,6 +73,3 @@ Im a university student of Computer Science and SAP ABAP | Fiori consultant
 <a href="https://github.com/NewMatheusED">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NewMatheusED&theme=github_dark" width="98.5%">
 </a>
-<div align="center">
-    <img align="center" loading ="lazy" src="https://leetcard.jacoblin.cool/NewMatheusED?theme=dark&font=Fira%20Code&ext=heatmap" width="60%">
-</div>
