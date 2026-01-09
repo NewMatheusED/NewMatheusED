@@ -4,6 +4,9 @@
     <h1 align="center">💻NewMatheusED💻</h1>
 </p>
 <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=NewMatheusED&label=Profile%20views&color=0e75b6&style=flat" alt="NewMatheusED" />
+</p>
+<p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Eat;Code;Sleep;Repeat!&font=Verdana&duration=2000&pause=100&color=11B4F7&center=true&width=280&height=40" alt="Typing SVG" />
 </p>
 <h3 align="center">
