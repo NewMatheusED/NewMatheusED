@@ -39,6 +39,10 @@ Im a university student of Computer Science and SAP ABAP | Fiori consultant
           <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" height="40" width="40" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" width="40" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" height="40" width="40" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" width="40" height="40"/>
+          
+          
           
 </div>
 
@@ -55,6 +59,9 @@ Im a university student of Computer Science and SAP ABAP | Fiori consultant
     <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="sap" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/>
+          
 </div>
 
 
